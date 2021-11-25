@@ -17,6 +17,7 @@ const App = () => {
             <Container>
                 <Header />
                 <Frontcard />
+                <Frontcard />
             </Container>
         </ThemeProvider>
 
